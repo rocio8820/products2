@@ -1,0 +1,57 @@
+
+body, div, html {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    min-height: 100vh;
+    padding: 15vh;
+    font-family: sans-serif;
+}
+
+
+  #clickMe {
+    display: inline-block;
+    padding:10px;
+    border-radius: 3px;
+    border-color: white;
+  }
+
+
+  .darkMode {
+    background-color: #262626;
+    color: white ;
+  }
+
+  table {
+    border-collapse: unset;
+    width: 100%;
+    border-spacing: 8px ;
+  }
+
+  td, th {
+    text-align: left;
+    padding: 8px;
+  }
+
+  .trNormal {
+    box-shadow: 2px 2px 2px 2px;
+    border-radius: 15px;
+    
+}
+.darkModeTr {
+  box-shadow: 2px 2px 2px 2px;
+  border-radius: 15px;
+  
+}
+
+h2 {
+  padding: 0px ;
+  margin: 0px ;
+}
+hr {
+  padding: 0px;
+  margin: 10px;
+}
+
